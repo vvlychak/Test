@@ -1,4 +1,4 @@
-![emotions](https://github.com/vvlychak/pet_projects/assets/109746372/84b7f8fc-b015-436d-bdd6-a27fc43c84fb)# Распознавание эмоций
+# Распознавание эмоций
 
 ## Описание проекта
 
